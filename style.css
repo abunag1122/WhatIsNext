@@ -44,6 +44,7 @@ html {
    display: block;
    margin-left: auto;
    margin-right: auto;
+   filter: drop-shadow(15px 15px 10px black);
  }
  
  .section-title {
@@ -79,7 +80,8 @@ html {
  }
  
  .section-image {
-   padding: 3px;
+    filter: drop-shadow(15px 15px 10px black);
+    padding: 3px;
  }
  
  .sub-info-section {
