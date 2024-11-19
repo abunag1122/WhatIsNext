@@ -119,8 +119,15 @@ html {
      max-width: 30%;
      filter: drop-shadow(15px 15px 10px black);
      height: auto;
- }
- 
+    transition: 0.5s;
+}
+
+ul#list-section li img:hover {
+    transform: scale (1.2);
+    filter: drop-shadow(25px 25px 10px black);
+    z-index: 2;
+    
+}
  footer{
      background: #400303;
  }
