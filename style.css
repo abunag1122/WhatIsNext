@@ -115,6 +115,7 @@ html {
  
  ul#list-section li img {
      max-width: 30%;
+     filter: drop-shadow(15px 15px 10px black);
      height: auto;
  }
  
