@@ -1,0 +1,145 @@
+html {
+    background: #f7eee7;
+ }
+ 
+ h1 {
+     margin:0;
+     padding:0;
+     color: white; 
+     background: #ac0101;
+     font-family: helvetica;
+     font-weight: bold;
+     text-align: center;
+   }
+ 
+ .site-subtitle {
+     margin:0;
+     padding:0;
+     color: white; 
+     background: #ac0101;
+     font-size: 30px;
+     font-family: helvetica;
+     font-weight: bold;
+     font-style: none;
+     text-align: center;
+ }
+ 
+ figure {
+     margin: 0;
+     padding: 5px;
+     padding-bottom: 5px;
+ }
+ 
+ figure img {
+     max-width: 30%;
+     height: auto;
+     margin-bottom: 10px;
+     margin-left: auto;
+     margin-right: auto;
+     padding: 3px;
+     border: 5px solid #ac0101;
+ }
+ 
+ .Logo {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+ }
+ 
+ .section-title {
+     padding: 3px;
+     font-size: 50px;
+     font-family: helvetica;
+     font-weight: bold;
+     text-align: left;
+     margin-bottom: 0px;
+  
+ }
+ 
+ .info-section {
+     
+     border: 5px solid #ac0101;
+ }
+ 
+ p {
+     font-weight: bold;
+     font-size: 18px;
+     font-family: helvetica;
+     line-height: 1.25;
+     margin-top: 1.25em;
+     margin-bottom: 1.25em;
+     
+   }
+ 
+ .paragraph-image {
+     max-height: 500px; 
+     max-width: 500px;
+     padding: 3px;
+     border: 5px solid #ac0101;
+ }
+ 
+ .section-image {
+   padding: 3px;
+ }
+ 
+ .sub-info-section {
+     background: #f9e8da;
+ }
+ 
+ ul#list-section{
+   background: #f9e8da;
+   margin-top: 10;
+   padding: 3px;
+   font-size: 30px;
+   font-family: helvetica;
+   font-weight: bold;
+   font-style: italic;
+   text-align: left;
+   list-style: none;
+   margin-bottom: 0px;
+ }
+ 
+ ul#list-section li h {
+     font-family: helvetica;
+     font-weight: bold;
+     font-size: 40px;
+     text-decoration: underline;
+ }
+ 
+ ul#list-section li {
+     margin-bottom: 100px;
+     font-family: helvetica;
+     font-weight: bold;
+     font-size: 20px;
+ }
+ 
+ ul#list-section li img {
+     max-width: 30%;
+     height: auto;
+ }
+ 
+ footer{
+     background: #400303;
+ }
+ 
+ h3#footer-title{  
+     margin-bottom: 0;
+     margin-top:0;
+     padding:0;
+     color: white; 
+     background: #f72f2f;
+     font-family: helvetica;
+     font-weight: bold;
+     font-style: italic;
+     text-align: center;
+ }
+ 
+ footer p {
+     font-style: italic;
+     font-family: helvetica;
+     font-weight: bold;
+     text-align: center;
+     padding: 0;
+     color: white; 
+     line-height: 0;
+ }
